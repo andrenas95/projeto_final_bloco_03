@@ -1,6 +1,5 @@
-import React from 'react';
 import './Home.css';
-
+import ListaCategorias from '../../components/categoria/listacategorias/ListaCategorias';
 
 function Home() {
     return (
@@ -23,6 +22,7 @@ function Home() {
             </div>
           </div>
         </div>
+        <ListaCategorias/>
       
       </>
     );
