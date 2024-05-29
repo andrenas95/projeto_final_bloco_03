@@ -12,7 +12,7 @@ function Home() {
   
               <div className="flex justify-around gap-4">
               
-                <button className='rounded bg-white text-blue-800 py-2 px-4'>Ver postagens</button>
+                <button className='rounded bg-white text-blue-800 py-2 px-4'>Ver Medicamentos</button>
               </div>
             </div>
   
