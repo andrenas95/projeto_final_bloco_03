@@ -2,7 +2,7 @@ import { ChangeEvent, useEffect, useState } from "react";
 import { RotatingLines } from "react-loader-spinner";
 import { useNavigate, useParams } from "react-router-dom";
 import Categoria from "../../../models/Categoria";
-import { atualizar, buscar, cadastrar } from "../../services/Services";
+import { atualizar, buscar, cadastrar } from "../../../services/Services";
 
 
 function FormCategoria() {
